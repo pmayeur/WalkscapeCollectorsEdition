@@ -153,7 +153,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Do Firewood Making until you find the **\!\!Tree Scaling Claws**  
   * Do at least 200 times to unlock the use of the Log Splitter  
 * Do Hut Jumping until you have 100 stones/120 sticks (including what’s in the bank), and until you get the $$Parkour Gloves  
-* Go South from Coldington to the Horn of Respite and do Search Team until you get the **\!\!Alien Squeaky Toy**  
+* Go South from Coldington to the Horn of Respite and do Search Team until you have 30 tokens worth of pins/tags (pins are worth 2, tags are worth 10\) and get the **\!\!Alien Squeaky Toy**  
 * Go East from Coldingdon to Port Skildar  
 * Buy a Simple Life Vest, a Fishing Lure, and a **\!\!Rusty Diving Helmet**. Also buy 20 fishing lines for crafting. Sell something you got from Coldington to the Frosthook Emporium (6/20).  
 * Go to Centaham and buy the remaining starter items if you didn’t have them before (Simple Hammer/Wrench/Gold Pan/Chisel/Saw/Sewing Needle)  
@@ -182,7 +182,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Travel back to Frusenholm and do Bird Feeding until you have reached level 25 Hunting and have at least 60 total Grass  
 * Return to Kallaheim and with your best **Carpentry** gear make at least 100 Bronze and/or Copper Arrows. If you lack bars/logs, get some more in the Pit of Pittance and Disenchanted Forrest  
 * Bank everything and take out your best **Hunting** gear including your Hunting Bow, Ring of Homesickness, and all of your Arrows. Also take out the pins/tags you got from Search Team  
-* Go to the Horn of Respite, sell your pins/tags (7/20), buy a $$Quaint Quiver and a **\!\!Rusty Diving Torso** (you should have at least 100 tokens from achievement rewards).   
+* Go to the Horn of Respite, sell your pins/tags (7/20), buy a $$Quaint Quiver, a **\!\!Rusty Diving Torso**, and the **\!\!Black Eye Peak Wilderness Permit** **\[Collectible 2\]** (you should have at least 100 additional tokens from achievement rewards).  
 * Go Southwest to Sanguine Hills and do Wolf Hunting to level 35 and until you have enough hide to make 60 Basic Leather (each one takes 1 Basic Hide or 5 Hide Scraps).  
 *  Return to Kallaheim and take out your best **Quality Outcome Tailoring** gear, as well as your 200 Linen Cloth, 60 Grass and enough Hide/Hide Scraps to make 60 Basic Leather  
 * Go to Frusenholm and turn all of your Hide/Hide Scraps into Basic Leather. Create Grassknot and Apprentice gear. Once you reach the level for the next item begin crafting it immediately until you can make and equip Apprentice gear. Once you have Apprentice gear in each slot, keep making Apprentice items until you get Great (Blue) quality of each (prioritizing Gloves), then do the same for Grassknot (again prioritizing Gloves). If you get Blue quality for every piece save the rest of your materials.  
@@ -194,14 +194,14 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 13/17 | 2/36 | 0/20 | 0/1  
-  Collectibles: 1/47 | Total Achievement Points: 20  
+  Collectibles: 2/47 | Total Achievement Points: 21  
   Agility: 40  
   Fishing: 10 | Foraging: 30 | Hunting: 35 | Mining: 15 | Woodcutting: 30  
   Carpentry: 25 | Cooking: 10| Crafting: 20 | Smithing: 15 | Tailoring: 25 | Trinketry: 1
 
 **Opening up Smithing, boosting Mining and the return to Barbantok**
 
-* Get your best **Rod Fishing** and **Crafting** gear, go to Frusenholm and do Ice Sculpting for the **\!\!Ice Cutter** and the \#\#Tiny Swan Ice Sculpture **\[Collectible 2\]** and level 30 Crafting  
+* Get your best **Rod Fishing** and **Carpentry** gear (including a Carpentry Tool), go to Frusenholm and do Ice Sculpting for the **\!\!Ice Cutter** and the \#\#Tiny Swan Ice Sculpture **\[Collectible 3\]** and level 30 Crafting  
 * Catch 100 fish **\[Easy Achievement 14\]**  
 * Return to Kallaheim and cook all the fish. Get out your best **Mining** gear and a Gold Pan.  
 * Go Northeast to Norsack Plains, do Gold Panning to level 30 Mining and 105 Gold Nuggets.  
@@ -214,15 +214,15 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Equip a hammer and Sickle at the same time **\[Normal Achievement 4\]**.  
 * Take out your best **Carpentry** and **Crafting** gear. If you don't have enough Spruce Logs and Planks from chests to have 25 Spruce Planks also bring a Hatchet.  
 * Go to Casbrant Fields and Cut Spruce Trees until you have enough for 25 Spruce Planks  
-* Go to Barbantok and do Wood Carving for a **\!\!Carving Knife**, the \#\#Wooden Carved Bear Figurine **\[Collectible 3\]** and Carpentry to level 20 if not there.  
-* Do Tinkering for a **\!\!Wire Saw**, the \#\#Silver Pocket Watch **\[Collectible 4\]**, 200 times for a screwdriver bonus, and level 45 Crafting  
+* Go to Barbantok and do Wood Carving for a **\!\!Carving Knife**, the \#\#Wooden Carved Bear Figurine **\[Collectible 4\]** and Carpentry to level 20 if not there.  
+* Do Tinkering for a **\!\!Wire Saw**, the \#\#Silver Pocket Watch **\[Collectible 5\]**, 200 times for a screwdriver bonus, and level 45 Crafting  
 * Return to Kallaheim and with your best **No Materials/Double Rewards Carpentry** gear turn Spruce Logs into Planks until you have 25 planks.  
-* (OPTIONAL) If you got the Wire Saw and you have enough materials, try and get your trinketry up to level 12 to equip it. Create Jarvonian Flower Necklaces and shape all of your Rough Opals. If you got to level 5 but not to level 8, make 1-4 Silver Rings to hit level 8\. Once at level 8, shape all of your Star Pearls. If you got to level 10 but did not get to 12, you can make 1-2 Silver Opal Rings to hit level 12\.
+* (OPTIONAL) If you got the Wire Saw and you have enough materials, try and get your trinketry up to level 12 to equip it. Create Jarvonian Flower Necklaces and shape all of your Rough Opals. If you got to level 5 but not to level 8, make 1-4 Silver Rings to hit level 8\. Once at level 8, shape all of your Star Pearls. If you got to level 10 but did not get to 12, you can make 1-2 Silver Opal Rings to hit level 12\. The only Trinketry Bench is in Winter’s End at the southern tip of Jarvonia, so you’ll need to do your work there\!
 
 *Checkpoint*
 
   Achievements: 14/17 | 4/36 | 0/20 | 0/1  
-  Collectibles: 4/47 | Total Achievement Points: 30  
+  Collectibles: 5/47 | Total Achievement Points: 31  
   Agility: 45  
   Fishing: 25 | Foraging: 30 | Hunting: 35 | Mining: 35 | Woodcutting: 30  
   Carpentry: 30 | Cooking: 10 | Crafting: 45 | Smithing: 20 | Tailoring: 25 | Trinketry: 1
@@ -242,11 +242,11 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go to Frusenholm and create Good (Green) quality Iron Pickaxe/Hatchet/Sickle. Upgrade the Simple Sewing Needle to a Silver one and the other tools to their Bronze counterparts.  
 * Return to Kallaheim and get your best **Cooking** gear  
 * Travel South from Casbrant Fields to Azurazera  
-* Do Soup Kitchen Volunteering for **\!\!Soup Kitchen Badge** **\[Collectible 5\]** and at least level 37 Cooking  
+* Do Soup Kitchen Volunteering for **\!\!Soup Kitchen Badge** **\[Collectible 6\]** and at least level 37 Cooking  
   * This collectible is a bit harder to find, but it is necessary to unlock the advanced kitchen and we need higher level cooking for several achievements anyway  
 * Return to Kallaheim and cook a Jelly Sandwich (you will need to cook 2x bread from wheat first) **\[Normal Achievement 5\]**  
 * Get your best **Carpentry** and **Smithing** gear, go to Port Skildar and do Brig Repair to 45 Carpentry  
-* Do Horseshoe Making to level 45 Smithing and a $$Cooling Icicle Trinket  
+* Do Horseshoe Making to level 47 Smithing and a $$Cooling Icicle Trinket  
 * Return to Kallaheim and get your best **Tailoring** gear and any leftover Linen Cloth  
 * Go back to Port Skildar and do Sail Repair to 40 Tailoring and a $$Spider Trinket. Use the Linen cloth for extra XP as Sail Repair is very slow leveling.  
 * Return to Kallaheim and get your **Pole Fishing** gear  
@@ -265,10 +265,10 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 14/17 | 5/36 | 0/20 | 0/1  
-  Collectibles: 5/47 | Total Achievement Points: 34  
+  Collectibles: 6/47 | Total Achievement Points: 35  
   Agility: 50  
   Fishing: 40 | Foraging: 45 | Hunting: 35 | Mining: 45 | Woodcutting: 45  
-  Carpentry: 45 | Cooking: 40 | Crafting: 45 | Smithing: 45 | Tailoring: 40 | Trinketry: 1
+  Carpentry: 45 | Cooking: 40 | Crafting: 45 | Smithing: 47 | Tailoring: 40 | Trinketry: 1
 
 **End of Part 1 Summary**
 
@@ -301,10 +301,10 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 14/17 | 5/36 | 0/20 | 0/1  
-  Collectibles: 5/47 | Total Achievement Points: 34  
+  Collectibles: 6/47 | Total Achievement Points: 35  
   Agility: 50  
   Fishing: 40 | Foraging: 45 | Hunting: 35 | Mining: 45 | Woodcutting: 45  
-  Carpentry: 45 | Cooking: 40 | Crafting: 45 | Smithing: 45 | Tailoring: 40 | Trinketry: 1
+  Carpentry: 45 | Cooking: 40 | Crafting: 45 | Smithing: 47 | Tailoring: 40 | Trinketry: 1
 
 **Grinding for Hydrilium Gear**
 
@@ -312,7 +312,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * With your best **Underwater Efficiency Mining** gear, go north from Vastalume to the Underwater Cave and Mine Volcanic Rock for 12 Volcanic Rocks  
 * Return to Vastalume and with your best **Underwater Crafting** gear turn those 12 Volcanic Rocks and 12 leftover Hardened Kelp from the previous step into 6 Hydrilium. Then using your best **Underwater Quality Outcome Smithing** gear, create one of each of the Expert Diving Set (Hydrilium Diving xxx)  
 * With your best **Underwater Efficiency Crafting** gear return to Elara’s Lagoon and do Underwater Basket Weaving 50 times **\[Normal Achievement 6\]**, a $$Flatpack Shark, and level 58 Crafting  
-* Return to Vastalume and with your best **Underwater Efficiency/Fine Item Agility** gear do Merfolk Dancing for the $$Merfolk Dress, a **\!\!Dolphin Egg**, the \#\#Letter from A. A. **\[Collectible 6\]**, and **Syrenthia Faction Reputation Level 3**  
+* Return to Vastalume and with your best **Underwater Efficiency/Fine Item Agility** gear do Merfolk Dancing for the $$Merfolk Dress, a **\!\!Dolphin Egg**, the \#\#Letter from A. A. **\[Collectible 7\]**, and **Syrenthia Faction Reputation Level 3**  
   * Sell an item to each of the 3 shops in Vastalume: Pearl of the Sea, Sunken Anchor, Undercurrent (10/20).  
   * Start hatching and leveling your Dolphin once you get it  
 * Now we want to make some decent Hydrilium tools. Each Great Quality tool will take around 20 attempts to make, so farm the following:  
@@ -340,10 +340,10 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 14/17 | 6/36 | 1/20 | 0/1  
-  Collectibles: 6/47 | Total Achievement Points: 43  
+  Collectibles: 7/47 | Total Achievement Points: 44  
   Agility: 50  
   Fishing: 40 | Foraging: 48 | Hunting: 35 | Mining: 47 | Woodcutting: 46  
-  Carpentry: 46 | Cooking: 40 | Crafting: 58 | Smithing: 47 | Tailoring: 40 | Trinketry: 1
+  Carpentry: 46 | Cooking: 40 | Crafting: 58 | Smithing: 48 | Tailoring: 40 | Trinketry: 1
 
 **Into GDTE**
 
@@ -353,7 +353,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   * If you want to delay the purchase of the Backpack (+4 Inventory space) you only need 6,089 coins, but I highly recommend getting it before heading to GDTE.  
 * Return to Kallaheim and get your best **Traveling** and **Chest Finding** **Agility** gear (including your Pine Skis) and 4 items to sell.  
 * Go to Frusenholm and buy the Oak Skis (89) and Backpack (4,999)  
-* Go NorthEast from Centaham to Fort of Permafrost, buy the \#\#Jarvonian Letter of Passage **\[Collectible 7\]** for 4,500 coins  
+* Go NorthEast from Centaham to Fort of Permafrost, buy the \#\#Jarvonian Letter of Passage **\[Collectible 8\]** for 4,500 coins  
 * Go East to Noiseless Pass **\[Easy Achievement 15\]** and do Skate Skiing for a **\!\!Reindeer Egg** and 50 times to unlock the use of Oak and Super Skis  
   * Once your Dolphin is Hatched, start hatching your Reindeer Egg  
 * Get Trellin reputation up to at least level 2 for the **\!\!Trusty Tent**, and Erdwise reputation up to level 5 for the full Proper set and to unlock Guard Duty. Do this by completing jobs in Granfiddich, Everhaven, and Blackspell Port.  
@@ -363,7 +363,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go East and North from the Mangrove Forest to Farsand Coast  
 * Do Surface Swimming 200 times for credit towards the Hard achievement  
 * Go South to Salsfirth to bank and sell something to Paws are Us (15/20)  
-* If your Foraging happens to be at least level 50, equip your best **Efficiency Foraging** gear and two light sources, do Venture Into the Woods for \#\#Essence of the Swamp **\[Collectible 8\], \[Normal Achievement 7\]** then return to Salsfirth. If not, don't worry, it’ll get unlocked in the next section.  
+* If your Foraging happens to be at least level 50, equip your best **Efficiency Foraging** gear and two light sources, do Venture Into the Woods for \#\#Essence of the Swamp **\[Collectible 9\], \[Normal Achievement 7\]** then return to Salsfirth. If not, don't worry, it’ll get unlocked in the next section.  
   * Now that the Halfling area is unlocked, if you have 3 light sources already, do Halfling jobs to at least level 2 for access to the bank in Halfmaw Hideout.  
 * Equip your best **Efficiency Agility** gear and your Golden Skydisc and go East and East to Bilgemont Port  
 * Do the GDTE Skydisc Course 25 times and for the **\!\!Red Skydisc**
@@ -371,17 +371,17 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 15/17 | 7/36 | 1/20 | 0/1  
-  Collectibles: 8/47 | Total Achievement Points: 49  
+  Collectibles: 9/47 | Total Achievement Points: 50  
   Agility: 50  
   Fishing: 40 | Foraging: 48 | Hunting: 35 | Mining: 47 | Woodcutting: 46  
-  Carpentry: 46 | Cooking: 40 | Crafting: 58 | Smithing: 47 | Tailoring: 40 | Trinketry: 1
+  Carpentry: 46 | Cooking: 40 | Crafting: 58 | Smithing: 48 | Tailoring: 40 | Trinketry: 1
 
 **Prepping for Tailoring Upgrades**
 
 * Equip your best **Efficiency Hunting** gear including your Copper/Bronze Arrows.  
 * Go to Mangrove Forest and do Deer Hunting at least 200 times, get 60 Animal Fur and enough Hide/Scaps to make 240 Leather. You’ll likely need upwards of 400 arrows to get enough Fur.  
 * Return to Salsfirth and equip your best **Collectible Woodcutting** gear  
-* Go Southeast from Granfiddich to Warrenfield and Cut Willow Trees for \#\#Weeping Willow Tear **\[Collectible 9\]**, 250 Willow Logs and until your Woodcutting is level 50  
+* Go Southeast from Granfiddich to Warrenfield and Cut Willow Trees for \#\#Weeping Willow Tear **\[Collectible 10\]**, 250 Willow Logs and until your Woodcutting is level 50  
 * Return to Salsfirth and get your best **No Materials/Double Rewards Carpentry** gear as well as two items to sell. Bring enough material to make 90 Willow Planks (2 Willow Logs per plank).  
 * Go Northeast to Everhaven and create your Willow Planks. Buy a Simple Magnet (and a Simple Bug Catching Net if you could not craft a Jellyfishing Net in Syrenthia). Sell an item to each of the 2 shops: Gold'n Grail Everhaven, Mossy Merchant's Breeze Mart (17/20)  
 * Return to Salsfirth and using your best **Quality Outcome Crafting** gear craft Willow Fishing Rods until you get at least a Great (Blue) Willow Fishing Rod  
@@ -389,22 +389,23 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go to Everhaven and do House Jumping for **\!\!Flowy Trousers** and Agility 55  
 * Go Southeast to Bilgemont Port, bank everything and equip your best **Fine Item Fishing Gear** and a magnetic item. Bring 2 light sources if you have the Halfling Bank unlocked. Sell an item to Gold'n Grail Bilgemont (18/20) and take out another item to sell.  
 * Go South to Blackspell Port and sell an item to Gold'n Grail Blackspell (19/20)  
-* Go Southwest from Blackspell Port to the Old Arena Ruins and do Magnet Fishing for 55 Fishing, a **\!\!Heron Trinket**, two **\!\!Old Gold Rings**, the \#\#Old War Sword **\[Collectible 10\]**, and “Fine” quality Trash **\[Normal Achievements 8, 9, 10\]**  
+* Go Southwest from Blackspell Port to the Old Arena Ruins and do Magnet Fishing for 55 Fishing, a **\!\!Heron Trinket**, two **\!\!Old Gold Rings**, the \#\#Old War Sword **\[Collectible 11\]**, and “Fine” quality Trash **\[Normal Achievements 8, 9, 10\]**  
   * Once you find the “fine” trash you don’t need the fine item attribute anymore, focus on Efficiency/Collectibles. If you get everything else but NOT any fine trash you can keep looking here or do Litter Looting once you’re back in Kallaheim.  
 * Return to Halfmaw Hideout/Bilgemont Port and equip your best **Efficiency Foraging** gear along with your Jellyfishing (or Bug Catching) Net.  
 * Return to Halfmaw Hideout/Bilgemont Port and equip your best **Efficiency Hunting** gear (including Copper/Bronze Arrows).  
-* Go to Old Arena Ruins and do Lizard Hunting for 60 Lizard Tails  
-* Go Southwest, then West to Warrenfield and do Butterfly Catching for **\!\!Fireflies in a Jar**, the \#\#Blue Lotus Butterfly **\[Collectible 11\]**, a **\!\!Chicken Egg**, 100 Honeycombs, and 1000 total wheat (including what’s in your bank) **\[Normal Achievements 11, 12, 13\]**  
+* Go to Old Arena Ruins and do Lizard Hunting for 60 Lizard Tails. If you have spare Copper/Bronze arrows, use all but 1 for a chance at the **\!\!Gecko Egg**.   
+* (OPTIONAL) If you run out of arrows before finding the egg, you can either come back later with more arrows or Mine Coal. Mining Coal is more AFK friendly but will take more steps on average compared to farming arrows and doing Lizard Hunting.  
+* Go Southwest, then West to Warrenfield and do Butterfly Catching for **\!\!Fireflies in a Jar**, the \#\#Blue Lotus Butterfly **\[Collectible 12\]**, a **\!\!Chicken Egg**, 100 Honeycombs, and 1000 total wheat (including what’s in your bank) **\[Normal Achievements 11, 12, 13\]**  
   * Once you get your Chicken Egg start hatching it. If it hatches before you are finished with Butterfly Catching equip it while butterfly catching  
   * If you can’t bank at Halfmaw Hideout the closest bank is at Bilgemont Port.
 
 *Checkpoint*
 
   Achievements: 15/17 | 13/36 | 1/20 | 0/1  
-  Collectibles: 11/47 | Total Achievement Points: 70  
+  Collectibles: 12/47 | Total Achievement Points: 71  
   Agility: 55  
   Fishing: 55 | Foraging: 55 | Hunting: 54 | Mining: 47 | Woodcutting: 50  
-  Carpentry: 48 | Cooking: 40| Crafting: 58 | Smithing: 47 | Tailoring: 40 | Trinketry: 1
+  Carpentry: 48 | Cooking: 40| Crafting: 58 | Smithing: 48 | Tailoring: 40 | Trinketry: 1
 
 **Tailoring, Hunting and Halflings**
 
@@ -428,6 +429,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go Northwest to Bog Top and do Swamp Foraging until you have a total of 60 Roots and optionally a $$Beaver Trinket  
 * Return to Salsfirth and with your best **Quality Outcome Tailoring** gear make a Great (Blue) quality set of both the Rootweave and Shadowquill equipment.  
 * Using your best **No Materials/Double Rewards Tailoring** turn the rest of your Bamboo Logs into Linen Cloth.  
+* If you have leftover material, make as much tailored gear as you can to help level the skill. Prioritize Journeyman \> Rootweave \> Shadowquill \> Spikescale  
 * If you haven’t done so and have leftover Leather/Spruce Planks, try to create a Great (Blue) quality Comfy Fishing Chair using your best **Quality Outcome Carpentry** gear at the Halfling Campgrounds  
 * Go to Halfmaw Hideout, get your best **Efficiency Hunting** gear, your bow, level 30+ arrows and two light sources.  
 * Go Northwest to Bog Top and do Alligator Hunting at least 50 times and until you have enough Elderhide/Scraps to make 60 Elderhide Leather  
@@ -436,10 +438,10 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 17/17 | 14/36 | 1/20 | 0/1  
-  Collectibles: 11/47 | Total Achievement Points: 76  
+  Collectibles: 12/47 | Total Achievement Points: 77  
   Agility: 57  
   Fishing: 55 | Foraging: 55 | Hunting: 56 | Mining: 47 | Woodcutting: 51  
-  Carpentry: 49 | Cooking: 40 | Crafting: 58 | Smithing: 47 | Tailoring: 45 | Trinketry: 1
+  Carpentry: 49 | Cooking: 40 | Crafting: 58 | Smithing: 48 | Tailoring: 45 | Trinketry: 1
 
  **Finishing up GDTE (for now)**
 
@@ -459,7 +461,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go to Halfling Campground and make the Box Traps.  
 * Return to Salsfirth, equip your best **No Material/Double Rewards Cooking** gear and cook your Wheat into Bread until you have 1000 Bread **\[Normal Achievement 15\], \[Hard Achievement 3\]**.  
   * If you did not reach level 45 Cooking, cook fish until you hit that level. Swordfish, Trout, Jellyfish and Lobsters give decent XP/Step  
-* Equip your best **Find Collectibles Cooking** gear, go to Granfiddich and do Wine Grape Stomping for the **\!\!Eberhart Corkscrew**, \#\#99-Year-Old Wine **\[Collectible 12\]**, and level 55 Cooking.  
+* Equip your best **Find Collectibles Cooking** gear, go to Granfiddich and do Wine Grape Stomping for the **\!\!Eberhart Corkscrew**, \#\#99-Year-Old Wine **\[Collectible 13\]**, and level 55 Cooking.  
 * Return to Salsfirth, and with your best **No Material/XP Trinketry** gear, work towards level 40 Trinketry by shaping your Rough Gems  
   * When you hit level 14 Trinketry, upgrade your simple chisel into a Bronze Chisel  
   * You won't have enough gems to hit level 40\. Once you are out of Rough Opals, Star Pearls, and Wrentmarines, do the following in your best **Quality Outcome Trinketry** gear which should get you to 40:  
@@ -475,12 +477,12 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   * 2x Gold Ruby Rings  
   * 2x Gold Jade Rings  
 * Return to Salsfirth and using your best **Quality Outcome Crafting** gear turn Flax into Twine and craft Large Fishing Nets until you get one of Great (Blue) quality or higher.  
-* Bank everything and take out your best **Efficiency Agility and Carpentry** gear and 8 Bones (keep at least 6-7 inventory slots open). Buy a **\!\!Camel Egg** for 10,000 coins and start hatching it.
+* Bank everything and take out your best **Efficiency Agility and Carpentry** gear and 5 Bones (keep at least 6-7 inventory slots open). Buy a **\!\!Camel Egg** for 10,000 coins and start hatching it.
 
 *Checkpoint*
 
   Achievements: 17/17 | 15/36 | 3/20 | 0/1  
-  Collectibles: 12/47 | Total Achievement Points: 89  
+  Collectibles: 13/47 | Total Achievement Points: 90  
   Agility: 57  
   Fishing: 55 | Foraging: 55 | Hunting: 56 | Mining: 47 | Woodcutting: 51  
   Carpentry: 58 | Cooking: 55 | Crafting: 58 | Smithing: 55 | Tailoring: 58 | Trinketry: 55
@@ -488,10 +490,10 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 **Brief Detour to Spooktown**
 
 * Go West, Southeast, Southwest from Granfiddich to Wraithwater.  
-* Do Ghost Tag for 10 Ectoplasm. Craft a Spectral Pickaxe which should give you an additional 100 ectoplasm **\[Normal Achievement 16\]**. Then craft a Spectral Saw and Repair the Bank.  
+* Do Ghost Tag for 10 Ectoplasm. And Graveyard Foraging 5 times. Craft a Spectral Pickaxe which should give you an additional 100 ectoplasm **\[Normal Achievement 16\]**. Then craft a Spectral Saw and Repair the Bank.  
 * Using your best **No Materials/Double Rewards Tailoring** gear turn all of your Elderhide and Elderhide Scraps into Elderhide Leather  
 * Using your best **Quality Outcome Tailoring** gear, make a Great (Blue) quality set of Elderhide. Prioritize gloves, then chest and finally legs.  
-* Using your best **Collectible/Fine Material Foraging** gear do Graveyard Foraging for Bones, Widow’s Kiss, and the \#\#Haunted Teddy Bear **\[Collectible 13\]**. Using your best **Fine Material Fishing** gear, do Ectoplasm Fishing for Ectoplasm Fish and then using your **No Materials/Double Rewards Cooking** gear turn the fish into Ectoplasm.  
+* Using your best **Collectible/Fine Material Foraging** gear do Graveyard Foraging for Bones, Widow’s Kiss, and the \#\#Haunted Teddy Bear **\[Collectible 14\]**. Using your best **Fine Material Fishing** gear, do Ectoplasm Fishing for Ectoplasm Fish and then using your **No Materials/Double Rewards Cooking** gear turn the fish into Ectoplasm.  
   * Upgrade your Spectral items with **Quality Outcome** gear as you farm. Do NOT use your fine ectoplasm/bones at this point.  
 * Before you leave Wraithwater aim for the following:  
   * 1 Wraithwater Flower Necklace (Great quality)  
@@ -499,6 +501,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   * 1 Spectral Needle (Great quality)  
   * 1 Full set of Tailored Spectral equipment (Great quality)  
   * 1 Spectral Sickle (Great quality)  
+  * 1 Spectral Saw (Great quality)  
   * 1 Spectral Chisel (Great quality)  
   * 1 Spectral Fishing Cagespear (Great quality)  
   * 1 Spectral Hunting Bow (Great quality)  
@@ -507,14 +510,14 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go to Tendon Wet Fields and do Box Trapping 300 times **\[Normal Achievement 18\]** and a chance at a $$Tiger Egg. If you don’t get the egg we’ll be back later.  
 * You should have opened 100 chests and traveled 100,000 steps **\[Normal Achievements 19, 20\]**  
 * You should also have 2 epic, 3 rare, 4 uncommon and 5 common drops. Equip the same rarities at the same time to satisfy the Taste the Rainbow Achievement **\[Normal Achievement 21\]**  
-* You should get the \#\#Western Continent Boat **\[Collectible 14\]** pass at 80 achievement points  
+* You should get the \#\#Western Continent Boat **\[Collectible 15\]** pass at 80 achievement points  
 * Homesickness Ring to Kallaheim and bank everything
 
 
 *Checkpoint*
 
   Achievements: 17/17 | 21/36 | 3/20 | 0/1  
-  Collectibles: 14/47 | Total Achievement Points: 109  
+  Collectibles: 15/47 | Total Achievement Points: 110  
   Agility: 57  
   Fishing: 55 | Foraging: 55 | Hunting: 59 | Mining: 47 | Woodcutting: 50  
   Carpentry: 58 | Cooking: 55 | Crafting: 58 | Smithing: 55 | Tailoring: 59 | Trinketry: 55
@@ -551,11 +554,9 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
     * Legs: Flowy Trousers  
     * Rings: Silver (or Gold) Ruby Ring x2 (Steprings are roughly equivalent to Great quality Ruby Rings)  
     * Feet: Oak Skis (Replace with Bert’s Super-Skis when you can)  
-    * Tools: Greedy Piggy Bank, Water Bottle, Adoring Fan Statue, Omni-tool, Rusted Spyglass (Replace with Mountaineering Guidebook when you can)  
+    * Tools: Greedy Piggy Bank, Water Bottle, Adoring Fan Statue, Omni-tool, Mountaineering Guidebook (when you get one)  
     * Consumable: Jelly Sandwich  
-* Go to the Horn of Respite  
-* Do Rescue Team until you have 100 total Adventurer’s Guild Tokens for **\!\!Black Eye Peak Wilderness Permit** **\[Collectible 15\]**  
-* Equip your Wanderlust Walking Stick (in place of the Rusted Spyglass)  
+* Equip your Wanderlust Walking Stick in the 5th tool slot  
 * Go South and South from the Horn of Respite to Black Eye Peak  
 * Do Ridge Scrambling for **\!\!Mountaineering Guidebook**  
 * Return to the Horn of Respite, equip your Mountaineering Guidebook (in place of the Wanderlust Walking Stick)  
@@ -582,11 +583,10 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 **Exploring the rest of Jarvonia**
 
 * Return to a bank (Azurazera/Kallaheim) and equip your best **Efficiency Cage Fishing Gear**  
-* Go to Winter’s End and do Sea Fishing (Cage) for a **\!\!Pink Pearl Trinket** and $$Crustacean Call (or even 2 of them if you want)  
+* Go South from Black Eye Peak to Winter’s End and do Sea Fishing (Cage) for a **\!\!Pink Pearl Trinket** and $$Crustacean Call (or even 2 of them if you want)  
 * Return to a bank and get your best **Foraging** gear, Ring of Homesickness, and two Light Sources  
   * Also bring along some high impact **Efficiency Agility** gear as long as it doesn’t take up too much space (Like Feather Cape, Bert’s Skiis, and Flowy Trousers). Make sure you have at least 20 spaces free.  
-* Go South from Black Eye Peak to Winter’s End  
-* Do Cave Foraging until you complete the achievement to forage 300 Mushrooms **\[Normal Achievement 25\]**  
+* Return to Winter’s End and do Cave Foraging until you complete the achievement to forage 300 Mushrooms **\[Normal Achievement 25\]**  
 * Do Spring Bat Tracking for an achievement to unlock the Venture into the Bog action in Granfiddich  
 * Homesickness Ring back to Kallaheim  
 * Go North from Norsack Plains to explore Winter Waves Glacier **\[Normal Achievement 26\]**  
@@ -598,8 +598,9 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Return to Kallaheim and equip your best **Fine Material/Gem Finding Mining** gear  
 * Go to Frostbite Mountain  
 * Mine Copper until you find the **\!\!Jarvonian Crossword Puzzle** **\[Collectible 20\] \[Normal Achievement 28\]** and a chance at the “Fine” Rough Star Pearl (don’t continue to look for it if it doesn’t drop).  
-* You are not level 50 Mining, Mine Coal at Frostbite Mountain **\[Hard Achievement 6\]**  
-* Return to Kallaheim and equip your best **Find Collectibles Mining** gear, climbing tool and light source  
+* Mine Coal at Frostbite Mountain until level 50 **\[Hard Achievement 6\]**  
+* (OPTIONAL) You can get your **\!\!Gecko Egg** here if you prefer it over Lizard Hunting  
+* Return to Kallaheim, equip your best **Find Collectibles Mining** gear, climbing tool and light source  
 * Go to Black Eye Peak and do Spelunking until you get the \#\#Ancient Ankh **\[Collectible 21\]** and reach level 60 Mining  
   * This activity ticks a lot of boxes. Collectible hunting while working towards 10k ores/100,000 coins, a chance at a rare Mummy, and decent agility XP toward hitting the 80 agility achievement.  
 * Go to Vastalume
@@ -705,7 +706,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Farm bones with your **Fine Item Spectral Foraging** gear, farm Ectoplasm Rocks with your best **Fine Item Spectral Mining** gear and then turn those rocks into ectoplasm with your best **No Materials/Double Rewards Spectral Smithing** gear.  
   * At lower qualities, a Farganite Pickaxe will outperform a Spectral one. Farganite is better than the same quality Spectral tool until Excellent quality, at which point Spectral becomes the better option. (Good Spectral \< Good Farganite \< Great Spectral \< Great Farganite \< Excellent Spectral \= Excellent Farganite \< Perfect Farganite \< Perfect Spectral)  
   * We’re farming Ectoplasm Rocks here because it contributes to the 10,000 ore achievement and is better at getting Fine ectoplasm than Fishing for tool upgrades.  
-* With your best **Quality Outcome Crafting** gear and your **Normal** Ectoplasm/Bones, make Spectral Needles/Tailored Gear/Wrenches/Sickles/Hatchets/Hammers/Flower Necklaces  
+* With your best **Quality Outcome Crafting** gear and your **Normal** Ectoplasm/Bones, make Spectral Tools/Tailored Gear/Flower Necklaces  
   * Use the “**Fine**” Ectoplasm/Bones and Sweet Carrot Pies to make Spectral Pickaxes until you get an Eternal quality Spectral Pickaxe **\[Normal Achievement 32\] \[Hard Achievement 14\]**  
   * If you’re happy with the quality of your spectral gear, save 3,000 normal ectoplasm  
   * This should also complete the 5000 ectoplasm achievement **\[Hard Achievement 15\]**  
