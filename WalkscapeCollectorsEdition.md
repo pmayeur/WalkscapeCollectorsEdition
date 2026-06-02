@@ -185,10 +185,10 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go to the Horn of Respite, sell your pins/tags (7/20), buy a $$Quaint Quiver, a **\!\!Rusty Diving Torso**, and the **\!\!Black Eye Peak Wilderness Permit** **\[Collectible 2\]** (you should have at least 100 additional tokens from achievement rewards).  
 * Go Southwest to Sanguine Hills and do Wolf Hunting to level 35 and until you have enough hide to make 60 Basic Leather (each one takes 1 Basic Hide or 5 Hide Scraps).  
 *  Return to Kallaheim and take out your best **Quality Outcome Tailoring** gear, as well as your 200 Linen Cloth, 60 Grass and enough Hide/Hide Scraps to make 60 Basic Leather  
-* Go to Frusenholm and turn all of your Hide/Hide Scraps into Basic Leather. Create Grassknot and Apprentice gear. Once you reach the level for the next item begin crafting it immediately until you can make and equip Apprentice gear. Once you have Apprentice gear in each slot, keep making Apprentice items until you get Great (Blue) quality of each (prioritizing Gloves), then do the same for Grassknot (again prioritizing Gloves). If you get Blue quality for every piece save the rest of your materials.  
+* Go to Frusenholm and turn all of your Hide/Hide Scraps into Basic Leather. Create Grassknot and Apprentice gear. Once you reach the level for the next item begin crafting it until you can make and equip Apprentice gear. Keep making Apprentice items until you get Great (Blue) quality of each (prioritizing Gloves), then do the same for Grassknot (again prioritizing Gloves). If you get Blue quality for every piece save the rest of your materials.  
   * Grassknot Mitts (13) \> Chaps (15) \> Tunic (17) \> Apprentice Handwear (18) \> Breeches (20) \> Vest (22)  
-  * If you have leftover Linen/Grass, make Grassknot equipment to get your Tailoring level higher. You can go for Apprentice Gear too but save Leather for the next step.  
-* Return to Kallaheim and if you have any leftover Leather and Spruce Logs/Planks, using your best **Quality Outcome Carpentry** gear create the best Comfy Fishing Chair that you can.
+* Return to Kallaheim and if you have any leftover Leather and Spruce Logs/Planks, using your best **Quality Outcome Carpentry** gear create the best Comfy Fishing Chair that you can.  
+* Take out your Hemp/Hide/Linen/Grass/Leather. Equip your best **Quality Outcome Tailoring** gear and go to Frusenholm. Turn all of your Hemp/Hide into Linen/Leather and create as much Apprentice and Grassknot equipment as you have materials for to level Tailoring.
 
 
 *Checkpoint*
@@ -246,7 +246,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   * This collectible is a bit harder to find, but it is necessary to unlock the advanced kitchen and we need higher level cooking for several achievements anyway  
 * Return to Kallaheim and cook a Jelly Sandwich (you will need to cook 2x bread from wheat first) **\[Normal Achievement 5\]**  
 * Get your best **Carpentry** and **Smithing** gear, go to Port Skildar and do Brig Repair to 45 Carpentry  
-* Do Horseshoe Making to level 47 Smithing and a $$Cooling Icicle Trinket  
+* Do Horseshoe Making to level 47 Smithing and a **\!\!Cooling Icicle Trinket**  
 * Return to Kallaheim and get your best **Tailoring** gear and any leftover Linen Cloth  
 * Go back to Port Skildar and do Sail Repair to 40 Tailoring and a $$Spider Trinket. Use the Linen cloth for extra XP as Sail Repair is very slow leveling.  
 * Return to Kallaheim and get your **Pole Fishing** gear  
